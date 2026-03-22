@@ -22,7 +22,7 @@ This is a console-based ATM simulation developed using Java. It demonstrates bas
 
 ## How to Run
 1. Navigate to `src` folder
-2. Compile: javac*.java
+2. Compile: javac *.java
 3. Run: java Main
 
 
