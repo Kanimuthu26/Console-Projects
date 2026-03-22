@@ -22,7 +22,7 @@ A console-based application that manages library operations such as adding books
 
 ## How to Run
 1. Navigate to `src` folder
-2. Compile: javac*.java
+2. Compile: javac *.java
 3. Run: java Main
 
 
